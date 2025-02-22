@@ -45,9 +45,8 @@ chmod +x cal_time.sh
 - The second file should use `syscall`.
 
 #### Example Input:
-```
 Place both files in the same directory as the script.
-
+```
 Enter the filename for code1 : code.asm
 Enter the filename for code2 : code2.asm
 ```
