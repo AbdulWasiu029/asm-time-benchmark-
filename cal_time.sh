@@ -5,8 +5,8 @@ figlet -f slant -c "Anonymous" | lolcat
 figlet -f term -c "The only limit to our realization of tomorrow will be our doubts of today." | lolcat
 echo "--------------------------------------------------------------------------------" 
 printf "\n"
-echo "Name: Yousra"
-echo "ID: 23BSCYS020"
+echo "Name: Abdul Wasiu"
+echo "ID: 23BSCYS029"
 printf "\n"
 
 read -p "Enter the filename for code1 : " code1
