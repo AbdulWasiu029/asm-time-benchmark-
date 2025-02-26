@@ -33,7 +33,7 @@ sudo apt update
 ## How to Use
 ### Clone this repository:
 ```bash
-git clone https://github.com/yourusername/assembly-syscall-benchmark.git
+https://github.com/AbdulWasiu029/asm-time-benchmark-.git
 ```
 ### Navigate into the directory:
 ```bash
