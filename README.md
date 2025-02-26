@@ -37,7 +37,7 @@ https://github.com/AbdulWasiu029/asm-time-benchmark-.git
 ```
 ### Navigate into the directory:
 ```bash
-cd assembly-syscall-benchmark/
+cd asm-time-benchmark-
 ```
 ### Make the script executable:
 ```bash
