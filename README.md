@@ -21,6 +21,14 @@ sudo apt update
   ```bash
   sudo apt install figlet lolcat
   ```
+- **bc (Calculator for floating-point operations)**
+  ```bash
+  sudo apt install bc
+  ```
+- **time (Command to measure execution time)**
+  ```bash
+  sudo apt install time
+  ```
 
 ## How to Use
 ### Clone this repository:
